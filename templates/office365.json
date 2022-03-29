@@ -1,0 +1,23 @@
+{
+  "proxyDomain": "loopback.modlishka.io",
+  "listeningAddress": "0.0.0.0",
+  "target": "microsoftonline.com",
+  "targetResources": "",
+  "targetRules": "by5zZXRBdHRyaWJ1dGUoImludGVncml0eSI=:by5zZXRBdHRyaWJ1dGUoImludGVnZHJpdHki,aW50ZWdyaXR5PQ==:aW50ZWdyaWN0eT0=,PC9oZWFkPg==:",
+  "terminateTriggers": "",
+  "terminateRedirectUrl": "",
+  "trackingCookie": "id",
+  "trackingParam": "id",
+  "jsRules":"",
+  "forceHTTPS": false,
+  "forceHTTP": false,
+  "dynamicMode": false,
+  "debug": false,
+  "logPostOnly": false,
+  "disableSecurity": false,
+  "log": "ms.log",
+  "plugins": "all",
+  "cert": "",
+  "certKey": "",
+  "certPool": ""
+}
